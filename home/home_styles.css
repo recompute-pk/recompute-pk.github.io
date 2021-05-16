@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+  }
+
+h1, h2{
+    color:rgb(80, 54, 196);
+    font-size: medium;
+    
+}
+
+p{
+    font-size: x-small;
+}

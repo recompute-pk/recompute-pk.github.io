@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curated Resources | </title>
+    <link>https://recompute-pk.github.io/resources/</link>
+      <atom:link href="https://recompute-pk.github.io/resources/index.xml" rel="self" type="application/rss+xml" />
+    <description>Curated Resources</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://recompute-pk.github.io/images/logo_hu127f1887e0d4c9f26f7a9283e7f80760_127742_300x300_fit_lanczos_2.png</url>
+      <title>Curated Resources</title>
+      <link>https://recompute-pk.github.io/resources/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://recompute-pk.github.io/</link>
+      <atom:link href="https://recompute-pk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://recompute-pk.github.io/images/logo_hu127f1887e0d4c9f26f7a9283e7f80760_127742_300x300_fit_lanczos_2.png</url>
+      <title></title>
+      <link>https://recompute-pk.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://recompute-pk.github.io/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://recompute-pk.github.io/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A dialogue with Aamir Shahzad</title>
+      <link>https://recompute-pk.github.io/post/april-03-2021-chat-with-aamir/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://recompute-pk.github.io/post/april-03-2021-chat-with-aamir/</guid>
+      <description>&lt;p&gt;Aamir Shahzad has studied at NUST and LUMS in Pakistan. But he&amp;rsquo;s also experienced being a student and researcher in France, Sweden, China, Singapore and Russia. As a teacher, he has experienced working at 5 Pakistani universities, and has been involved in curriculum development at departmental level as well.&lt;/p&gt;
+&lt;h1 id=&#34;why-aamir&#34;&gt;Why Aamir?&lt;/h1&gt;
+&lt;p&gt;This profile makes Aamir a great choice for giving us a cross-sectional tour of a computer science teacher who is simultaneously bound by department&amp;rsquo;s curricular choices as well as university&amp;rsquo;s culture and priorities, while cross comparing with &amp;lsquo;baahir ki universities.&amp;rsquo; Secondly, Aamir being an idealist, always is cognizant of the fact that there is a difference between what is happening in our universities and what ought to be. He&amp;rsquo;ll unfold both within this conversation.&lt;/p&gt;
+&lt;h1 id=&#34;purpose-of-education&#34;&gt;Purpose of education:&lt;/h1&gt;
+&lt;p&gt;To make ourselves a better human being, and to make the world where we&amp;rsquo;re placed a better place to live in. But more recently, we&amp;rsquo;ve left this purpose behind and are more focused on skills, tied to monetary terms.&lt;/p&gt;
+&lt;h1 id=&#34;purpose-of-cs-education&#34;&gt;Purpose of CS Education:&lt;/h1&gt;
+&lt;p&gt;In CS education, we can easily see the technical side of the things, and how they are related to making the world a technological convenience for a common man, but on the ethical side, or the higher purposes of education, or the humanities side of the curriculum, there is a glaring gap at the moment. Though there are some courses in CS curriculum in that direction, but neither the university nor the students take those courses seriously, as all the focus is placed on technical courses, lopsidedly. His undergrad&amp;rsquo;s Pakistan Studies teacher left an impact on Aamir, so he clearly sees the significance of non-technical courses for shaping students. One way to bridge the gap is to introduce a historical context within the content of technical courses as well, instead of just teaching the finished models. This will help develop process thinking in students.&lt;/p&gt;
+&lt;h1 id=&#34;state-of-pakistani-universities&#34;&gt;State of Pakistani universities:&lt;/h1&gt;
+&lt;p&gt;4 years is a sufficient time for training and producing a graduate in whose personality the objectives of the institution should be visible, just like it is with the army personnel, but unfortunately in Pakistani universities those objectives aren&amp;rsquo;t clear.&lt;/p&gt;
+&lt;h1 id=&#34;difference-between-our-and-international-universities&#34;&gt;Difference between our and international universities:&lt;/h1&gt;
+&lt;p&gt;At the moment the Pakistani universities are neither producing thoughtful citizens nor competent technicians. But what is amiss here? Aamir said that Russian, French, or even Chinese universities have a national vision for education, aligned with their national missions. In schools and then even in universities, the teachers as well as students are very serious about achieving those objectives, resulting in students and teachers engaged in labs day and night. Russia and some other countries are bringing computational thinking down to early schooling levels even. Like gym instructors, senior professors are training students for maths and computing Olympiads, in the process polishing students&#39; problem solving skills. When Russian university in which Aamir was based, prioritized research over other aspects, there were big scientist names all around the students to look up to.&lt;/p&gt;
+&lt;h1 id=&#34;pushing-past-symptoms-and-getting-to-the-root-causes&#34;&gt;Pushing past symptoms and getting to the root causes:&lt;/h1&gt;
+&lt;p&gt;Even those countries that are not as planned and controlled a state as the socialist blocks, for instance America, Canada, UK etc, where individual and academic freedom triumphs, even they have done incredibly well in science and technology, what is the case with Pakistan? Aamir cites a dialogue from Lewis Carol&amp;rsquo;s Alice in Wonderland, &amp;lsquo;If you don&amp;rsquo;t know where to go, you can take any path.&amp;rsquo; We have policy makers, curriculum designers, accreditation councils but they don&amp;rsquo;t know where to take our education system, resulting in arbitrariness and loop holes. For example, in one university, in the 8th and last semester it was decided that the students must be taught introduction to data science, but the same students had already studied Big data analytics in the 4th semester. To top it, the teacher is asked only to teach the theory within class, without dedicating any support resources for programming or Anaconda labs.&lt;/p&gt;
+&lt;p&gt;In Sweden, when they have decided that faculty workload is to be distributed 80% for research and 20% for teaching and administration, then they provide lots of creative teaching and administrative support for the professor, even for that 20%, and for the 80%, they provide utter solitude spaces where the professors can relax and do their thinking, lost in their own worlds. It&amp;rsquo;s in this environment that university&amp;rsquo;s purpose of creation of knowledge gets realized. Meanwhile in Pakistan, at the hiring stage, a mix of teaching and publication abilities are judged, and then almost without any teaching and administrative support, faculty member is made to teach 3-4 courses every semester, and yet at the end of the year faculty members are appraised based on research output, for which neither space not time was ensured by the university in the first place. This confusion in the administration eventually seeps to the students through teachers. Bizarrely, in this Pakistani environment, top &amp;ldquo;researchers&amp;rdquo; are also often those who are deeply involved in administrative affairs. Russia has kept this rot at bay by having separate teaching and research tracks and objectives.&lt;/p&gt;
+&lt;h1 id=&#34;positively-moving-forward-for-improving-cs-education&#34;&gt;Positively moving forward for improving CS education:&lt;/h1&gt;
+&lt;p&gt;Unlike these great nations, we have to admit that Pakistan has no national level vision 2030 or 2050. This results in every government cooking up arbitrary policies, similarly HEC hands out various policies, while the confusion deepens. But we can&amp;rsquo;t really wait and do nothing till that visionary day finally arrives. Pragmatically speaking, what can good CS faculty members decide to do in their departments or courses for their students, despite the known issues elaborated above? Aamir had great practical tips:&lt;/p&gt;
+&lt;p&gt;Just ensure rigor in two things: programming skills and analytical/problem solving sills. Do this in every course, e.g. even discrete maths course should have lots of programming assignments. Students as well as the industry would welcome the positive effect this consistent effort would create in the long run.&lt;/p&gt;
+&lt;p&gt;Another pragmatic solution for at least producing great software engineers for the industry by current universities is to set a much higher passing criteria for the core computing courses, programming fundamentals, algorithms etc. Secondly, if the teacher himself or herself has weak programming skills, the industry will keep getting frustrated.&lt;/p&gt;
+&lt;p&gt;We thank Aamir for such an insightful conversation, and giving simultaneous food for thought for policy makers, curriculum developers, heads of institutions and departments as well as faculty members and students. We hope that these meaningful conversations blossom into fruitful national level discourse.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://recompute-pk.github.io/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://recompute-pk.github.io/publication/preprint/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://recompute-pk.github.io/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://recompute-pk.github.io/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://recompute-pk.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://recompute-pk.github.io/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://recompute-pk.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recompute-pk.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://recompute-pk.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recompute-pk.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://recompute-pk.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recompute-pk.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
