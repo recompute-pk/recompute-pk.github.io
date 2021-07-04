@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fireside Chat Sessions | </title>
+    <title>Recompute Podcast | </title>
     <link>https://recompute-pk.github.io/post/</link>
       <atom:link href="https://recompute-pk.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Fireside Chat Sessions</description>
+    <description>Recompute Podcast</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://recompute-pk.github.io/images/logo_hu127f1887e0d4c9f26f7a9283e7f80760_127742_300x300_fit_lanczos_2.png</url>
-      <title>Fireside Chat Sessions</title>
+      <title>Recompute Podcast</title>
       <link>https://recompute-pk.github.io/post/</link>
     </image>
     
     <item>
-      <title>ReCompute with Aamir Shahzad | Purpose of Education, Pakistani vs Foreign Universities, Root Causes</title>
+      <title>ReCompute with Aamir Shahzad | Purpose of Education, Pakistani vs Foreign Universities, Root Causes | Podcast \# 1</title>
       <link>https://recompute-pk.github.io/post/april-03-2021-chat-with-aamir/</link>
       <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://recompute-pk.github.io/post/april-03-2021-chat-with-aamir/</guid>
